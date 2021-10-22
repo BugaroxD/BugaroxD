@@ -5,7 +5,8 @@ BugaroxD README.md/
 
 <h1 align="center">Hi 🐙, I'm Jefferson "BugaroxD"</h1>
 <h3 align="center">back-end for Brasil </h3>
-![gitD](https://user-images.githubusercontent.com/88409973/138533471-2ca18c5f-2b47-4bee-861a-886f85ccf234.jpg)
+
+<h3>![gitD](https://user-images.githubusercontent.com/88409973/138533471-2ca18c5f-2b47-4bee-861a-886f85ccf234.jpg)<h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugaroxd&label=Profile%20views&color=0e75b6&style=flat" alt="bugaroxd" /> </p>
 
