@@ -1,5 +1,5 @@
 
-https://i.pinimg.com/236x/03/67/e0/0367e0bd2b57425959a5db6755879140.jpg
+
 
 
 
@@ -7,8 +7,8 @@ https://i.pinimg.com/236x/03/67/e0/0367e0bd2b57425959a5db6755879140.jpg
 
 <h1 align="center">Hi 🐙, I'm Jefferson "BugaroxD"</h1>
 <h3 align="center">back-end for Brasil </h3>
-
-<img serc= "https://i.pinimg.com/236x/03/67/e0/0367e0bd2b57425959a5db6755879140.jpg" width="250">
+| col 1 |
+|<img serc= "https://i.pinimg.com/236x/03/67/e0/0367e0bd2b57425959a5db6755879140.jpg" width="250">|
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugaroxd&label=Profile%20views&color=0e75b6&style=flat" alt="bugaroxd" /> </p>
 
