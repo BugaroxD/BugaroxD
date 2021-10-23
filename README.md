@@ -1,6 +1,6 @@
 ![gitD](https://user-images.githubusercontent.com/88409973/138533767-d38b402d-74ef-42da-ad1f-dda89a1be459.jpg)
-![gitD](https://user-images.githubusercontent.com/88409973/138533874-dc79a670-bde2-48a2-a4ca-c2edcb6a053b.jpg)
-                       
+![gitD](https://user-images.githubusercontent.com/88409973/138534410-a9e8362d-d48a-4059-9c2d-602c1306998a.jpg)
+         
                                       
 <h1 align="center">Hi 🐙, I'm Jefferson "BugaroxD"</h1>
 <h3 align="center">back-end for Brasil </h3>
