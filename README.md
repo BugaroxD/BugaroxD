@@ -11,8 +11,6 @@
 
 - 👨‍🎓 I’m currently study **Analise e Desenvolvimento de Sistemas**
 
-- 💬 Ask me about **node.JS, express, html.**
-
 - 📫 How to reach me **jeffe_14@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
