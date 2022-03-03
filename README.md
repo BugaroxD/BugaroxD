@@ -1,8 +1,16 @@
 ![gitD](https://user-images.githubusercontent.com/88409973/138533767-d38b402d-74ef-42da-ad1f-dda89a1be459.jpg)
-![gitD](https://user-images.githubusercontent.com/88409973/138534410-a9e8362d-d48a-4059-9c2d-602c1306998a.jpg)
-         
+![gitD](https://user-images.githubusercontent.com/88409973/138533767-d38b402d-74ef-42da-ad1f-dda89a1be459.jpg)
+![gitD](https://user-images.githubusercontent.com/88409973/138533767-d38b402d-74ef-42da-ad1f-dda89a1be459.jpg)
+![gitD](https://user-images.githubusercontent.com/88409973/138533767-d38b402d-74ef-42da-ad1f-dda89a1be459.jpg)
+![gitD](https://user-images.githubusercontent.com/88409973/156623633-66f0ddb1-0463-4aac-8103-2ac18d6ef012.png)
+![gitD](https://user-images.githubusercontent.com/88409973/138533767-d38b402d-74ef-42da-ad1f-dda89a1be459.jpg)
+![gitD](https://user-images.githubusercontent.com/88409973/138533767-d38b402d-74ef-42da-ad1f-dda89a1be459.jpg)
+![gitD](https://user-images.githubusercontent.com/88409973/138533767-d38b402d-74ef-42da-ad1f-dda89a1be459.jpg)
+![gitD](https://user-images.githubusercontent.com/88409973/138533767-d38b402d-74ef-42da-ad1f-dda89a1be459.jpg)
+
+
                                       
-<h1 align="center">Hi 🐙, I'm Jefferson "BugaroxD"</h1>
+<h1 align="center">Hi 🐙, I'm Jefferson "BugaroxD"</h1> 
 <h3 align="center">back-end for Brasil </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugaroxd&label=Profile%20views&color=0e75b6&style=flat" alt="bugaroxd" /> </p>
