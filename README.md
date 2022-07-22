@@ -12,7 +12,7 @@
 
 - 👨‍🎓 I’m currently study **Analise e Desenvolvimento de Sistemas**
 
-- 📫 How to reach me <a href = "mailto:jeffe_14@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 📫 How to reach me <a href = "mailto:jeffeluiz97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
