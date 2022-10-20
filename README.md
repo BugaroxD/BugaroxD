@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugaroxd&label=Profile%20views&color=0e75b6&style=flat" alt="bugaroxd" /> </p>
 
-- 👨‍💻 I’m currently working on **NG Informática LTDA**
+- 👨‍💻 I’m currently working on ****
 
 - 👨‍🎓 I’m currently study **Analise e Desenvolvimento de Sistemas**
 
