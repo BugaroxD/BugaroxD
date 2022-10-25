@@ -11,17 +11,17 @@
 
 - 👨‍💻 I’m currently working on 
 
-- 👨‍🎓 I’m currently study **Analise e Desenvolvimento de Sistemas**
+- 👨‍🎓 I’m currently study **Análise e Desenvolvimento de Sistemas**
 
-- 📫 My email: jeffeluiz@gmail.com
+- 📫 My email: jeffeluiz97@gmail.com
 
 ##  Connect with me
 
 <div align="center">
   <p>
-<a href="https://www.linkedin.com/in/kauã-medeiros-dev/"> 
+<a href="https://www.linkedin.com/in/jefferson-clemente-a928ab1a4/"> 
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="mailto:jeffeluiz@gmail.com"> 
+<a href="mailto:jeffeluiz97@gmail.com"> 
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a/>
 </div>
  
