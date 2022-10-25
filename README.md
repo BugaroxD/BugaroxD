@@ -44,8 +44,4 @@
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugaroxd&layout=compact&theme=merko"></img>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugaroxd&show_icons=true&locale=en&layout=compact" alt="bugaroxd" /></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugaroxd&show_icons=true&locale=en" alt="bugaroxd" />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugaroxd&" alt="bugaroxd" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugaroxd&" alt="bugaroxd" />
