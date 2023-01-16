@@ -2,8 +2,6 @@
 
 ![gitD](https://user-images.githubusercontent.com/88409973/156623633-66f0ddb1-0463-4aac-8103-2ac18d6ef012.png)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ### 👋 About me:
 
 <h1 align="center">🐙∆My name is Jefferson "BugaroxD"∆</h1> 
@@ -76,7 +74,6 @@
 
 <br/>
 
-
 ## 📈 Statistics
 
 <img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bugaroxd&show_icons=true&theme=merko"></img>
@@ -84,3 +81,5 @@
 <img width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bugaroxd&layout=compact&theme=merko"></img>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugaroxd&" alt="bugaroxd" />
+
+![](./profile-3d-contrib/profile-green-animate.svg)
