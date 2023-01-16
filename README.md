@@ -2,6 +2,8 @@
 
 ![gitD](https://user-images.githubusercontent.com/88409973/156623633-66f0ddb1-0463-4aac-8103-2ac18d6ef012.png)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ### 👋 About me:
 
 <h1 align="center">🐙∆My name is Jefferson "BugaroxD"∆</h1> 
@@ -15,7 +17,7 @@
 
 - 📫 My email: jeffeluiz97@gmail.com
 
-##  Connect with me
+## Connect with me
 
 <div align="center">
   <p>
@@ -30,9 +32,8 @@
 	
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -45,9 +46,8 @@
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -59,9 +59,8 @@
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
@@ -73,14 +72,13 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>
-	
 
 
 ## 📈 Statistics
-  
+
 <img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bugaroxd&show_icons=true&theme=merko"></img>
 
 <img width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bugaroxd&layout=compact&theme=merko"></img>
