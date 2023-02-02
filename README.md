@@ -4,7 +4,7 @@
 
 ### 👋 About me:
 
-<h1 align="center">🐙∆My name is Jefferson "BugaroxD"∆</h1> 
+<h1 align="center">🐙My name is Jefferson ∆"BugaroxD"∆</h1> 
 <h3 align="center">I'm Fullstack developer for Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugaroxd&label=Profile%20views&color=0e75b6&style=flat" alt="bugaroxd" /> </p>
