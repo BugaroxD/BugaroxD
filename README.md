@@ -1,7 +1,5 @@
 <h1 align='center'> Welcome to my profile. </h1>
 
-![gitD](https://user-images.githubusercontent.com/88409973/156623633-66f0ddb1-0463-4aac-8103-2ac18d6ef012.png)
-
 ### 👋 About me:
 
 <h1 align="center">🐙My name is Jefferson ∆"BugaroxD"∆</h1> 
