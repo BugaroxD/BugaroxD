@@ -79,4 +79,6 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugaroxd&" alt="bugaroxd" />
 
+![gitD](https://user-images.githubusercontent.com/88409973/156623633-66f0ddb1-0463-4aac-8103-2ac18d6ef012.png)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
