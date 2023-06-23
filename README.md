@@ -79,6 +79,6 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugaroxd&" alt="bugaroxd" />
 
-![](https://github.com/BugaroxD/BugaroxD/blob/output/github-contribution-grid-snake.svg)
+//![](https://github.com/BugaroxD/BugaroxD/blob/output/github-contribution-grid-snake.svg)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
