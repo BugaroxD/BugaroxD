@@ -9,8 +9,8 @@
 
 - 👨‍💻 I’m currently working on **Achei Pneus - Lider Técnico | Tech Lead**
 
-- 👨‍🎓 I’m currently study **Análise e Desenvolvimento de Sistemas | Analysis and Systems Development**
-
+- 👨‍🎓 I’m graduated in **Análise e Desenvolvimento de Sistemas | Analysis and Systems Development**
+  
 - 📫 My email: jeffeluiz97@gmail.com
 
 ## Connect with me
