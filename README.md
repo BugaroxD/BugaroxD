@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugaroxd&label=Profile%20views&color=0e75b6&style=flat" alt="bugaroxd" /> </p>
 
-- 👨‍💻 I’m currently working on **Achei Pneus - Lider Técnico | Tech Lead**
+- 👨‍💻 I’m currently working on **Achei Pneus - Líder Técnico | Tech Lead**
 
 - 👨‍🎓 I’m graduated in **Análise e Desenvolvimento de Sistemas | Analysis and Systems Development**
   
