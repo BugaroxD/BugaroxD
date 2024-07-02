@@ -3,11 +3,11 @@
 ### 👋 About me:
 
 <h1 align="center">🐙My name is Jefferson ∆"BugaroxD"∆</h1> 
-<h3 align="center">I'm Fullstack developer for Brasil</h3>
+<h3 align="center">I'm Back End developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugaroxd&label=Profile%20views&color=0e75b6&style=flat" alt="bugaroxd" /> </p>
 
-- 👨‍💻 I’m currently working on **Achei Pneus - Líder Técnico de Desenvolvimento | Development Tech Leader**
+- 👨‍💻 I’m currently working on **Achei Pneus - Desenvolvedor Back End Pleno | Mid Back End Developer**
 
 - 👨‍🎓 I’m graduated in **Análise e Desenvolvimento de Sistemas | Analysis and Systems Development**
   
