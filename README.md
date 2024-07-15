@@ -9,6 +9,8 @@
 
 - 👨‍💻 I’m currently working on **Achei Pneus - Desenvolvedor Back End Pleno | Mid Back End Developer**
 
+- 🌱 I’m currently learning **ASP.NET Core, .NET, C#, Microsoft SQL Server and Azure Cloud resources**
+
 - 👨‍🎓 I’m graduated in **Análise e Desenvolvimento de Sistemas | Analysis and Systems Development**
   
 - 📫 My email: jeffeluiz97@gmail.com
