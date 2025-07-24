@@ -84,15 +84,3 @@
 </div>
 
 </td></tr></table>
-
-
-## 📈 Statistics
-
-<img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bugaroxd&show_icons=true&theme=merko"></img>
-<img width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bugaroxd&layout=compact&theme=merko"></img>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugaroxd&" alt="bugaroxd" />
-
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
